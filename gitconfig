@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julien.martin94@icloud.com
+	name = Julien Martin
